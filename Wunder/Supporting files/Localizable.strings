@@ -1,0 +1,8 @@
+"MainScreen_Title" = "Wunder";
+"MainScreen_Map_Button" = "Cars On Map";
+"MainScreen_List_Button" = "Cars On List";
+
+"MapScreen_Title" = "Map";
+"MapScreen_Item_Fuel" = "Fuel: %@%%";
+
+"ListScreen_Title" = "List";
